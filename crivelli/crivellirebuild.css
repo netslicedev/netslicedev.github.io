@@ -14,20 +14,14 @@ html {
 }
 
 .banner-C61RwL {
-  /*display:none;*/
+  display:none;
 }
 
 a {
-	color: #7E8100;
+	color: #556884;
 }
 
 /* Shopify Styling */
-.shopify-buy__product__variant-selectors {
-  width: 230px;
-}
-
-
-
 .shopify-buy__product__title {
 	display: none;
 }
@@ -47,7 +41,7 @@ a {
 .shopify-buy__option-select__label {
 	text-transform: uppercase;
 	font-size: 7px;
-    color: rgba(126,129,0,1.0);
+    color: #556884;
     letter-spacing: .9px;
     line-height: 14px
 }
@@ -57,9 +51,9 @@ a {
 	color: white;
 	font-size: 9px;
 	border-radius: 45px;
-	background-color: rgba(126,129,0,1.0);
+	background-color: #556884;
 	height: 30px;
-	width: 120px;
+	width: 140px;
 	margin-top: 10px;
 	border: none;
 }
@@ -86,7 +80,7 @@ a {
 	display: none;
 }
 .shopify-buy__cart-toggle {
-	background-color: rgba(126,129,0,1.0);
+	background-color: #556884;
 	width: 40px;
     height: 40px;
     border-radius: 30px;

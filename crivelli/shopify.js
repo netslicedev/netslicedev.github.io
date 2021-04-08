@@ -56,17 +56,17 @@ var options = {
 		popup: false,
 		"styles": {
 			"button": {
-				"background-color": "#A3A131"
+				"background-color": "#333333"
 			}
 		}
 	}
-	
+
 };
 // add as many of these as you want buy buttons. Just swap out the product id: [12345] number to replace a product with another.
 // Product 1 - Cabeza
 if(document.getElementById('product-component-cabeza')){
 	ui.createComponent('product', {
-		id: [2559062769749],
+		id: [2652641525845],
 		node: document.getElementById('product-component-cabeza'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options // this is referencing our newly created object.
@@ -75,7 +75,7 @@ if(document.getElementById('product-component-cabeza')){
 // Product 1 - Cabeza Mobile
 if(document.getElementById('product-component-cabezamobile')){
 	ui.createComponent('product', {
-		id: [2559062769749],
+		id: [2652641525845],
 		node: document.getElementById('product-component-cabezamobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options // this is referencing our newly created object.
@@ -84,7 +84,7 @@ if(document.getElementById('product-component-cabezamobile')){
 // Product 2 - Corazon
 if(document.getElementById('product-component-corazon')){
 	ui.createComponent('product', {
-		id: [2612200636501],
+		id: [2652641362005],
 		node: document.getElementById('product-component-corazon'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -93,7 +93,7 @@ if(document.getElementById('product-component-corazon')){
 // Product 2 - Corazon Mobile
 if(document.getElementById('product-component-corazonmobile')){
 	ui.createComponent('product', {
-		id: [2612200636501],
+		id: [2652641362005],
 		node: document.getElementById('product-component-corazonmobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -102,7 +102,7 @@ if(document.getElementById('product-component-corazonmobile')){
 // Product 3 - Mariposa
 if(document.getElementById('product-component-mariposa')){
 	ui.createComponent('product', {
-		id: [2623437668437],
+		id: [2652641001557],
 		node: document.getElementById('product-component-mariposa'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -111,7 +111,7 @@ if(document.getElementById('product-component-mariposa')){
 // Product 3 - Mariposa Mobile
 if(document.getElementById('product-component-mariposamobile')){
 	ui.createComponent('product', {
-		id: [2623437668437],
+		id: [2652641001557],
 		node: document.getElementById('product-component-mariposamobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -121,7 +121,7 @@ if(document.getElementById('product-component-mariposamobile')){
 // Product 4 - Caballo
 if(document.getElementById('product-component-caballo')){
 	ui.createComponent('product', {
-		id: [2623457460309],
+		id: [2652641722453],
 		node: document.getElementById('product-component-caballo'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -130,7 +130,7 @@ if(document.getElementById('product-component-caballo')){
 // Product 4 - Caballo Mobile
 if(document.getElementById('product-component-caballomobile')){
 	ui.createComponent('product', {
-		id: [2623457460309],
+		id: [2652641722453],
 		node: document.getElementById('product-component-caballomobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -141,7 +141,7 @@ if(document.getElementById('product-component-caballomobile')){
 // Product 5 - Mexican Organic
 if(document.getElementById('product-component-mexicanorganic')){
 	ui.createComponent('product', {
-		id: [2623585878101],
+		id: [2652640641109],
 		node: document.getElementById('product-component-mexicanorganic'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -150,7 +150,7 @@ if(document.getElementById('product-component-mexicanorganic')){
 // Product 5 - Mexican Organic Mobile
 if(document.getElementById('product-component-mexicanorganicmobile')){
 	ui.createComponent('product', {
-		id: [2623585878101],
+		id: [2652640641109],
 		node: document.getElementById('product-component-mexicanorganicmobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -161,7 +161,7 @@ if(document.getElementById('product-component-mexicanorganicmobile')){
 // Product 6 - Dimbulah
 if(document.getElementById('product-component-dimbulah')){
 	ui.createComponent('product', {
-		id: [2623593185365],
+		id: [2652641132629],
 		node: document.getElementById('product-component-dimbulah'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -170,7 +170,7 @@ if(document.getElementById('product-component-dimbulah')){
 // Product 6 - Dimbulah Mobile
 if(document.getElementById('product-component-dimbulahmobile')){
 	ui.createComponent('product', {
-		id: [2623593185365],
+		id: [2652641132629],
 		node: document.getElementById('product-component-dimbulahmobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -181,7 +181,7 @@ if(document.getElementById('product-component-dimbulahmobile')){
 // Product 7 - Mexican Decaffeinated
 if(document.getElementById('product-component-mexicandecaffeinated')){
 	ui.createComponent('product', {
-		id: [2624459767893],
+		id: [2652640804949],
 		node: document.getElementById('product-component-mexicandecaffeinated'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -190,17 +190,17 @@ if(document.getElementById('product-component-mexicandecaffeinated')){
 // Product 7 - Mexican Decaffeinated Mobile
 if(document.getElementById('product-component-mexicandecaffeinatedmobile')){
 	ui.createComponent('product', {
-		id: [2624459767893],
+		id: [2652640804949],
 		node: document.getElementById('product-component-mexicandecaffeinatedmobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
 	});
 }
 //
-// Product 8 - Swiss Water Decaffeinated 
+// Product 8 - Swiss Water Decaffeinated
 if(document.getElementById('product-component-swisswaterdecaffeinated')){
 	ui.createComponent('product', {
-		id: [2624466321493],
+		id: [2652639789141],
 		node: document.getElementById('product-component-swisswaterdecaffeinated'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -209,7 +209,7 @@ if(document.getElementById('product-component-swisswaterdecaffeinated')){
 // Product 8 - Swiss Water Decaffeinated Mobile
 if(document.getElementById('product-component-swisswaterdecaffeinatedmobile')){
 	ui.createComponent('product', {
-		id: [2624466321493],
+		id: [2652639789141],
 		node: document.getElementById('product-component-swisswaterdecaffeinatedmobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -219,7 +219,7 @@ if(document.getElementById('product-component-swisswaterdecaffeinatedmobile')){
 // Product 9 - Skybury
 if(document.getElementById('product-component-skybury')){
 	ui.createComponent('product', {
-		id: [2624469336149],
+		id: [4100954816597],
 		node: document.getElementById('product-component-skybury'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -228,7 +228,7 @@ if(document.getElementById('product-component-skybury')){
 // Product 9 - Skybury Mobile
 if(document.getElementById('product-component-skyburymobile')){
 	ui.createComponent('product', {
-		id: [2624469336149],
+		id: [4100954816597],
 		node: document.getElementById('product-component-skyburymobile'),
 		moneyFormat: '%24%7B%7Bamount%7D%7D',
 		options: options
@@ -239,4 +239,3 @@ if(document.getElementById('product-component-skyburymobile')){
 });
 }
 })();
-
