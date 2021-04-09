@@ -494,8 +494,8 @@ function subsbuttonlinks() {
 	$(".subsvolumeup-JGGKRD").css({'cursor': 'pointer'}).click(function() {  subsvolumeup(); });
 	$(".subsvolumedown-JGGKRD").css({'cursor': 'pointer'}).click(function() {  subsvolumedown(); });
 
-	$(".subsnext-qYHq91").css({'cursor': 'pointer'}).click(function() {  subsnextback("next"); });
-	$(".subsprev-qYHq91").css({'cursor': 'pointer'}).click(function() {  subsnextback("back"); });
+	$(".subsnext-AhpL9j").css({'cursor': 'pointer'}).click(function() {  subsnextback("next"); });
+	$(".subsprev-AhpL9j").css({'cursor': 'pointer'}).click(function() {  subsnextback("back"); });
 	//
 	//$(".bp2-subssection1option1").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 1; selectBlend();  });
 	//$(".bp2-subssection1option2").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 2; selectBlend();  });
