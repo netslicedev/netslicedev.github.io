@@ -496,7 +496,7 @@ function subsbuttonlinks() {
 
 	$(".subsnext-AhpL9j").css({'cursor': 'pointer'}).click(function() {  subsnextback("next"); });
 	$(".subsprev-AhpL9j").css({'cursor': 'pointer'}).click(function() {  subsnextback("back"); });
-	//
+	///
 	//$(".bp2-subssection1option1").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 1; selectBlend();  });
 	//$(".bp2-subssection1option2").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 2; selectBlend();  });
 	//$(".bp2-subssection1option3").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 3; selectBlend();  });
