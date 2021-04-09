@@ -106,6 +106,8 @@ function codeInit() {
 		$('.home').css('position', 'fixed');
 	}
 
+	alert();
+
 }
 
 function navBlack() {
