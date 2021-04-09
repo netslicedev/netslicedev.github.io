@@ -565,8 +565,8 @@ function selectBlend() {
 	}
 	setTimeout(function() {
 		showsubssections(2,"forward");
-		TweenMax.to(".subssection1-qYHq91", 0.5, {y:-600, opacity:0, ease:Power3.easeInOut});
-		TweenMax.to(".subssection2-qYHq91", 0.5, {y:0, opacity:1, ease:Power3.easeInOut});
+		TweenMax.to(".subssection1-TEs5WN", 0.5, {y:-600, opacity:0, ease:Power3.easeInOut});
+		TweenMax.to(".subssection2-TEs5WN", 0.5, {y:0, opacity:1, ease:Power3.easeInOut});
 		//TweenMax.to(".bp2-subssection1", 0.5, {y:-600, opacity:0, ease:Power3.easeInOut});
 		//TweenMax.to(".bp2-subssection2", 0.5, {y:0, opacity:1, ease:Power3.easeInOut});
 	}, 800);
