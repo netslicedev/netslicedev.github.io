@@ -466,15 +466,15 @@ function showsubssections(x,y) {
 }
 function subsbuttonlinks() {
 
-	$(".subssection1option1-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 1; selectBlend();  });
-	$(".subssection1option2-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 2; selectBlend();  });
-	$(".subssection1option3-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 3; selectBlend();  });
-	$(".subssection1option4-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 4; selectBlend();  });
-	$(".subssection1option5-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 5; selectBlend();  });
-	$(".subssection1option6-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 6; selectBlend();  });
-	$(".subssection1option7-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 7; selectBlend();  });
-	$(".subssection1option8-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 8; selectBlend();  });
-	$(".subssection1option9-OpbOVz").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 9; selectBlend();  });
+	$(".subssection1option1-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 1; selectBlend();  });
+	$(".subssection1option2-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 2; selectBlend();  });
+	$(".subssection1option3-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 3; selectBlend();  });
+	$(".subssection1option4-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 4; selectBlend();  });
+	$(".subssection1option5-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 5; selectBlend();  });
+	$(".subssection1option6-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 6; selectBlend();  });
+	$(".subssection1option7-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 7; selectBlend();  });
+	$(".subssection1option8-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 8; selectBlend();  });
+	$(".subssection1option9-TEs5WN").css({'cursor': 'pointer'}).click(function() {  window.subsblendnumber = 9; selectBlend();  });
 
 	$(".subssection2option1-m3OLst").css({'cursor': 'pointer'}).click(function() {  window.subsselectedgrind = 1; selectGrind(); }); // 1 = Beans. 2 = Standard, 3 = Fine, 4 = Medium, 5 = Coarse
 	$(".subssection2option2-m3OLst").css({'cursor': 'pointer'}).click(function() {  window.subsselectedgrind = 2; selectGrind(); });
