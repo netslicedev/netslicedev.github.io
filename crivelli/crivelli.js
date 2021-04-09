@@ -36,7 +36,7 @@ function codeInit() {
 		respanels(i);
 	}
 
-
+	
 
 	// Move each panel except the first one under the screen.
 	for (var panelcount = 2; panelcount <= window.totalPanels; panelcount++) {
@@ -106,7 +106,7 @@ function codeInit() {
 		$('.home').css('overflow', 'hidden');
 	}
 
-	alert();
+	//alert();
 
 }
 
