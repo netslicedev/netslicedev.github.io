@@ -532,7 +532,7 @@ function selectBlend() {
 		$('.subssection1option'+i+'-OpbOVz').fadeTo(0, 0.5);
 		//$('.bp2-subssection1option'+i+'').fadeTo(0, 0.5);
 	}
-	$('.subssection1option'+window.subsblendnumber+'-OpbOVz').fadeTo(0, 1);
+	$('.subssection1option'+window.subsblendnumber+'-TEs5WN').fadeTo(0, 1);
 	//$('.bp2-subssection1option'+window.subsblendnumber+'').fadeTo(0, 1);
 	if (window.subsblendnumber == 1) {
 		$(".subsblendsselected-I2DrL6").html("Originale");
