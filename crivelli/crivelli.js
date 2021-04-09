@@ -106,7 +106,7 @@ function codeInit() {
 		$('.home').css('overflow', 'hidden');
 	}
 
-	//alert();
+	alert();
 
 }
 
