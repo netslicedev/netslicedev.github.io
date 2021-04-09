@@ -103,7 +103,7 @@ function codeInit() {
 
 	if (window.page == "home") {
 		//alert();
-		$('.home').css('position', 'fixed');
+		$('.home').css('overflow', 'hidden');
 	}
 
 	//alert();
